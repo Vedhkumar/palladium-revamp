@@ -75,7 +75,9 @@ function ProtocolCard({ link, linkText, text, protocolOn, img }: ProtocolType) {
         <p className="text-sm font-thin uppercase">{protocolOn}</p>
       )}
       <button className="bg-primary rounded-full px-4 py-1">
-        <a href={link}>{linkText}</a>
+        <a href={link} target="_blank">
+          {linkText}
+        </a>
       </button>
     </div>
   );
