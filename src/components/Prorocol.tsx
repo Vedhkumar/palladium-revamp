@@ -1,4 +1,3 @@
-import React from "react";
 import bitcoinProtocol from "../assets/bitcoin-protocol.webp";
 import groupCoins from "../assets/group-coins-protocol.webp";
 import stackCoins from "../assets/stack-of-coins-protocol.webp";

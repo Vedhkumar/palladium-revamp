@@ -1,5 +1,3 @@
-import React from "react";
-
 type InvisibleCardProps = {
   heading: string;
   para: string;
